@@ -106,11 +106,11 @@ body {
 #first-section {
  width:100%;
  text-align:center;
- position:relative;
  background:black;
 }
 
 .text-part {
+ margin:20px 0;
 } 
 
 #first-section h2 {
