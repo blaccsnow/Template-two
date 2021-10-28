@@ -254,7 +254,7 @@ body {
 
 @media only screen and (min-width: 900px) {
  html {
- font-size:18px;
+ font-size:17px;
 } 
 
 #second-section #section-two-flex{
@@ -269,7 +269,7 @@ body {
 #head-section {
  flex-direction:row;
  justify-content:space-between;
- margin:45px;
+ margin:40px;
 }
 
 #menu-image {
