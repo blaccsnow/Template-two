@@ -269,7 +269,7 @@ body {
 #head-section {
  flex-direction:row;
  justify-content:space-between;
- margin:0 35px;
+ margin:45px;
 }
 
 #menu-image {
