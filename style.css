@@ -111,7 +111,7 @@ body {
 
 .text-part {
  position:absolute;
- bottom:2px;
+ bottom:-10px;
 }
 
 #hero-image {
