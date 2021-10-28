@@ -123,6 +123,8 @@ body {
 
 #call {
  margin-left:10px;
+ font-size:1.5rem;
+ Font-weight:bold;
 }
 
 #or {
@@ -135,7 +137,7 @@ body {
 }
 
 #first-section a {
- font-size:1.7rem;
+ font-size:1.5rem;
  text-decoration:none;
  background:blue;
  border:1px solid blue;
