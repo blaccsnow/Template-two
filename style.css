@@ -250,14 +250,14 @@ body {
  padding:5px 0;
 } 
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 800px) {
  html {
   font-size:15px;
  }
 
  .text-part {
  position:absolute;
- bottom:280px;
+ bottom:500px;
 }
 
 } 
