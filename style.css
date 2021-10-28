@@ -257,7 +257,7 @@ body {
 
  .text-part {
  position:absolute;
- top:-10px;
+ top:10px;
 }
 
 } 
