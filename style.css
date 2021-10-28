@@ -111,7 +111,7 @@ body {
 
 .text-part {
  position:absolute;
- bottom:-200px;
+ bottom:-250px;
 }
 
 #hero-image {
@@ -250,7 +250,7 @@ body {
  padding:5px 0;
 } 
 
-@media only screen and (min-width: 750px) {
+@media only screen and (min-width: 550px) {
  html {
   font-size:15px;
  }
