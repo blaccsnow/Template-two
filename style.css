@@ -269,6 +269,11 @@ body {
 
 #second-section #section-two-flex{
  display:flex;
+ justify-content:space-evenly;
+} 
+
+#flex-elements {
+ max-width:25%;
 } 
 
 }
