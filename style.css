@@ -270,6 +270,7 @@ body {
  flex-direction:row;
  justify-content:space-between;
  margin:40px;
+ border-bottom:1px solid #111;
 }
 
 #menu-image {
