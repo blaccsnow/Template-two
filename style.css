@@ -267,7 +267,7 @@ body {
  font-size:17px;
 } 
 
-#second-section {
+#second-section #section-two-flex{
  display:flex;
 } 
 
