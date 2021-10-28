@@ -147,7 +147,7 @@ body {
 
 #second-section {
  width:100%;
- padding:25px;
+ padding:35px 25px;
  text-align:center;
 }
 
@@ -264,6 +264,15 @@ body {
 
 .flex-elements {
  max-width:30%;
+} 
+
+#head-section {
+ flex-direction:row;
+ justify-content:space-between;
+}
+
+#menu-image {
+ display:none;
 } 
 
 }
