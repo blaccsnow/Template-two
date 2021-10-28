@@ -276,7 +276,8 @@ body {
 } 
 
 #navbar ul {
- justify-content:flex-start;
+ justify-content:flex-end;
+ margin:0 15px
 } 
 
 #navbar {
