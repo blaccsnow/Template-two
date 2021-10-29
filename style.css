@@ -312,4 +312,7 @@ body {
  html {
  font-size:22px;
 } 
+
+#third-section p {
+ padding:0 50px;
 } 
