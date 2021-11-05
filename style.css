@@ -228,11 +228,11 @@ body {
  } 
 
 #service-div {
- max-width:70%;
+ max-width:75%;
 }
 
 #testimonials {
- max-width:7p%;
+ max-width:75%;
 }
  
 } 
@@ -257,11 +257,16 @@ body {
    grid-template-columns:repeat(2, 2fr);
    grid-gap:50px;
    margin-bottom:50px;
+   max-width:90%;
   }
  
  .service-elements {
    margin:0;
  }
+
+ #testimonials {
+  max-width:85%;
+} 
 
  #testimonial-wrapper {
    display:grid;
