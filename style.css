@@ -129,6 +129,7 @@ body {
 #testimonials {
  margin:auto;
  max-width:85%;
+ margin-bottom:50px;
 }
 
 #testimonials h5 {
@@ -266,7 +267,7 @@ body {
 
 @media only screen and (min-width: 1400px) {
  #service-div {
-  grid-template-columns:repeat(4, 2fr);
+  grid-template-columns:repeat(4, 1fr);
  }
 
  #testimonial-wrapper {
