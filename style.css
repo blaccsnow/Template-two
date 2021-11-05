@@ -222,6 +222,31 @@ body {
 }
 
 
+@media only screen and (min-width: 700px) {
+  html {
+   font-size:16px;
+ } 
+
+  #service-div {
+   display:grid;
+   grid-template-columns:repeat(2, 2fr);
+   grid-gap:50px;
+   margin-bottom:50px;
+  }
+ 
+ .service-elements {
+   margin:0;
+ }
+
+ #testimonial-wrapper {
+   display:grid;
+   grid-template-columns:repeat(2, 2fr);
+   grid-gap:50px;
+ }
+ 
+} 
+
+
 @media only screen and (min-width: 900px) and (orientation: landscape ) {
 
   html {
@@ -271,6 +296,6 @@ body {
  }
 
  #testimonial-wrapper {
-  grid-template-columns:repeat(4, 2fr);
+  grid-template-columns:repeat(4, 1fr);
  }
 }
