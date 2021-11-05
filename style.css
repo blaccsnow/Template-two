@@ -291,9 +291,6 @@ body {
 
 
 @media only screen and (min-width: 1400px) {
- #service-div {
-  grid-template-columns:repeat(4, 1fr);
- }
 
  #testimonial-wrapper {
   grid-template-columns:repeat(4, 1fr);
