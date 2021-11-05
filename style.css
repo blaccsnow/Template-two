@@ -227,22 +227,13 @@ body {
    font-size:16px;
  } 
 
-  #service-div {
-   display:grid;
-   grid-template-columns:repeat(2, 2fr);
-   grid-gap:50px;
-   margin-bottom:50px;
-  }
- 
- .service-elements {
-   margin:0;
- }
+#service-div {
+ max-width:70%;
+}
 
- #testimonial-wrapper {
-   display:grid;
-   grid-template-columns:repeat(2, 2fr);
-   grid-gap:50px;
- }
+#testimonials {
+ max-width:7p%;
+}
  
 } 
 
@@ -288,11 +279,3 @@ body {
  
 }
 
-
-
-@media only screen and (min-width: 1400px) {
-
- #testimonial-wrapper {
-  grid-template-columns:repeat(4, 1fr);
- }
-}
